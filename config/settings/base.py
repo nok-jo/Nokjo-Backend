@@ -21,6 +21,7 @@ INSTALLED_APPS = [
     # Local Apps
     "core",
     "user",
+    "account",
 ]
 
 MIDDLEWARE = [
